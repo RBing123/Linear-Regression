@@ -1,5 +1,5 @@
 # Regression
-### Code
+### Linear-Regression Code
 ```
 from sklearn import preprocessing, linear_model
 from sklearn.metrics import mean_squared_error, r2_score
