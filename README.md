@@ -1,4 +1,4 @@
-# Linear-Regression
+# Regression
 ### Code
 ```
 from sklearn import preprocessing, linear_model
